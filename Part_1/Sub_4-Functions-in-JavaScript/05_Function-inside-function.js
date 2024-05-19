@@ -30,7 +30,7 @@ app();  //  <---- calling the MAIN (first-primary) function // step1))
 //         5
 //         9
 
-//console.log(addTwo(3,3)); <---- EROOR, we cannot call sub function outside the main function
+//console.log(addTwo(3,3)); <---- ERROR , we cannot call sub function outside the main function
 
 
 // step1))  first call the first/main function

@@ -2,7 +2,7 @@
 
 let a;
 
- a = prompt("enter number = "); //Taking value works like SCANF
+ a = prompt("enter number = "); //Taking value works like SCANf
 
 switch(a){
     case 1: console.log("you have entered ONE");
@@ -14,5 +14,5 @@ switch(a){
     case 3: console.log("you have entered THREE");
     break;
 
-    default: console.log("eneter number between 1 to 3");
+    default: console.log("enter number between 1 to 3");
 }

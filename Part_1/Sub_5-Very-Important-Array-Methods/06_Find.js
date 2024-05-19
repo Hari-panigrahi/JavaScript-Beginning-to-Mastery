@@ -1,4 +1,5 @@
 //find
+
 //array.find(callbackfunction)
 
 const myArray = ["parth","cat", "dhruv", "nee", "palak"];
@@ -11,7 +12,7 @@ const ans  = myArray.find(isLength3);
 
 console.log(ans);  //cat
 
-//------------
+//------------ as arrow function
 
 const ans1  = myArray.find((string)=>string.length ===3);
 

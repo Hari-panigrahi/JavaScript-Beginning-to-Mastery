@@ -30,9 +30,9 @@ let b = sum() ;
 console.log(b); // 6 <---Returned value
 
 //---------------------------------------
-//3)) PARAMETER technique = DRY-do not repeate yourself
+//3)) PARAMETER technique = DRY-do not repeat yourself
 // Parameter => (num1,num2)
-// arguments => 5 and 4 values that we are provied
+// arguments => 5 and 4 values that we are provide
 
 function minus(num1,num2){
     return (num1-num2);

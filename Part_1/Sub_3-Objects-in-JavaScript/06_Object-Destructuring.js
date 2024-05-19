@@ -14,7 +14,7 @@ console.log(bandName1); // led zepplin
 
 const {bandName,famousSong} = band ;
 
-console.log(bandName1);  // led zepplin
+console.log(bandName);  // led zepplin
 console.log(famousSong); // stairway to heaven
 
 //2)) shortcut with differentvariable

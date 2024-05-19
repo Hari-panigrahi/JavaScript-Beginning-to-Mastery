@@ -8,4 +8,4 @@ console.log(`without semicolon`)
 
 //comments this is
 
-// parth comment here
+// hari comment here

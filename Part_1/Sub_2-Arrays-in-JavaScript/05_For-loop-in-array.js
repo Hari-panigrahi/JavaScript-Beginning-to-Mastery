@@ -14,4 +14,5 @@ for( let j=0 ; j < fruits.length-1 ; j++ ){
     array2.push(fruits[j]);
 }
 
+
 console.log(array2);

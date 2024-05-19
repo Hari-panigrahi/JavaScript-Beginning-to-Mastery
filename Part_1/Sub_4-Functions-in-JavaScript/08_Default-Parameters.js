@@ -6,10 +6,9 @@ function addTwo(a,b){
     }
     return a+b;
 }
-
 console.log(addTwo(4)); // a = 4 and b = undefined
 
-
+//we can write above function like this also
 
 function addTwohere(a,b=0){
     return a+b;

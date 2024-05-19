@@ -18,10 +18,10 @@
     // console.log(a);  <--- even we cannot acces them in another {}
     // console.log(b);
     
-    console.log(c); // we can acces VAR in another {} + out of {}
+    console.log(c); // we can access VAR in another {} + out of {}
 }
 
-console.log(c); // we can acces VAR in another {} + out of {}
+console.log(c); // we can access VAR in another {} + out of {}
 
 //----------------------------------
 //OUTPUT - matrix
@@ -50,4 +50,4 @@ function myApp(){
 
 myApp();
 
-//console.log(secName); <-- we also cannot acces here VAR for doing acces we have to return value from function
+//console.log(secName); <-- we also cannot access here VAR for doing access we have to return value from function

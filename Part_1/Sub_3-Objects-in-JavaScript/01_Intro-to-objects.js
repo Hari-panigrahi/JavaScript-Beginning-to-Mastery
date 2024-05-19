@@ -12,7 +12,7 @@ console.log(person); // name:"parth",age:22 --- this is keyValue pair
 console.log(person.name); //parth
 console.log(person.age); //22
 
-//2)) BRACKATE notation
+//2)) BRACKET notation
 console.log(person["name"]); //parth
 console.log(person["age"]); //22
 

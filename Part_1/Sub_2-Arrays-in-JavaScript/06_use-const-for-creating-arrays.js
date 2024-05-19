@@ -6,4 +6,4 @@ const fruits = ["apple", "mango"]; // 0x11
 fruits.push("banana");
 console.log(fruits); // ["apple", "mango","banana"]
 
-//but we cannotreassign value like fruits = ["banana"] --- ERROR
+//but we cannot reassign value like fruits = ["banana"] --- ERROR

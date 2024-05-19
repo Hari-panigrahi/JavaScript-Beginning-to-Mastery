@@ -7,7 +7,7 @@ if(tempInDegree < 0){
 }else if(tempInDegree < 16){
     console.log("It is cold outside");
 }else if(tempInDegree < 25){
-    console.log("wheather is okay ");
+    console.log("wheather is good ");
 }else if(tempInDegree < 35){
     console.log("lets go for swim");
 }else if(tempInDegree < 45){

@@ -1,5 +1,6 @@
 // && || operator
-// && -- AND (all condition hav to br TRUE) to get true
+
+// && -- AND (all condition hav to be TRUE) to get true
 // || -- OR (among all conditions ONLY ONE CONDITION have to be TRUE) to get true
 
 let a = 1 ;

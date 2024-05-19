@@ -22,6 +22,9 @@ const obj2 = {
 const newObj = {...obj1,...obj2}
 console.log(newObj); // {key1: 'valueUnique', key2: 'value2', key3: 'value3', key4: 'value4'}
 
+const newObj = {...obj2,...obj1}
+console.log(newObj); // {key1: 'value1', key2: 'value2', key3: 'value3', key4: 'value4'}
+
 // kisi ek obj me 1 key 1 baar he rahegi (ex.here key1)
 
 //adding new key

@@ -22,13 +22,13 @@ const userCart = [
     {productId: 3, productName: "tv", price: 15000},
 ]
 
-function lessthan30k(n){
+function lessThan30k(n){
     return n.price < 30000 ; 
 }
 
-const OP  =  userCart.every(lessthan30k);
+const OP  =  userCart.every(lessThan30k);
 
-//same as arrwo function 
+//same as arrow function 
 const OParrow  =  userCart.every((n) => n.price < 30000 );
 
 console.log(OP); //TRUE bcz all price is less than 30K

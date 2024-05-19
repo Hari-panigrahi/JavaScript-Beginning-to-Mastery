@@ -1,8 +1,8 @@
 //string concate - concatenantion means joints two string
 
-let a = "parth";
-let b = "patel";
+let a = "hari";
+let b = "p";
 
-let c = a + b ; //parthpatel
+let c = a + b ; //harip
 
 console.log(c);

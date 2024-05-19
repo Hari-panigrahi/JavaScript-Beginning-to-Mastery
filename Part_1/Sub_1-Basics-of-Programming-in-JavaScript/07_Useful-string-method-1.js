@@ -1,14 +1,14 @@
-// trim() -- remove extra spaces ifthere is not any character
+// trim() -- remove extra spaces if there is not any character
 // toUpperCase() -- all capital letters
 // toLowerCase() -- all small letters
 // slice() -- take some character from string
 
-let a = "     parth     "; //       parth     
+let a = "     hari     "; //       hari     
 console.log(a);
 console.log(a.length);//13
 
 let b = a.trim(); 
-console.log(b);//parth
+console.log(b);//hari
 console.log(b.length);//9
 
 

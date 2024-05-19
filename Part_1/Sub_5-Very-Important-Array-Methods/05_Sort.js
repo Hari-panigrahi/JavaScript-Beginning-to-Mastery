@@ -43,8 +43,8 @@ console.log(numbers); //[5, 9, 410, 1200, 3000]
 // a-b ---> NEGATIVE (less than 0  ) ----> a,b
 // 5,9
 
-//ASCENDING ORDER ( a - b ) likhna hai return mei
-//DECENDING ORDER ( b - a ) likhna hai return mei
+//ASCENDING ORDER -> ( a - b ) likhna hai return mei
+//DESCENDING ORDER -> ( b - a ) likhna hai return mei
 
 
 //==========================================================

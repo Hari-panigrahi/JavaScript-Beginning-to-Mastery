@@ -20,7 +20,7 @@ console.log(sum); //25
 // 15              10             25 <-- sum
 
 //----------------------------------------------------------
-// real life ex for counting the total in cart items in ecommerse site
+// real life ex for counting the total in cart items in ecommerce site
 
 const userCart = [
     {productId:1 , productName: "mobile", price: 12000},

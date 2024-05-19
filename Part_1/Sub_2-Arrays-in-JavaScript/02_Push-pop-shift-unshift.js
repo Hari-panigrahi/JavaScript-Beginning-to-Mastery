@@ -1,4 +1,4 @@
-//push pop faster than unshift shift
+//push pop (faster than) unshift shift
 //----------------------------
 //Push-- add new item in the end
 //Pop -- remove last element + return removed element

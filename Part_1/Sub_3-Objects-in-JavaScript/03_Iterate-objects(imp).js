@@ -7,6 +7,8 @@ const person =  {
     hobby : ["droneracing","taxy","pcd"]
 };
 
+
+//method-1
 //for-in loop
 //we cannot use DOT-notation in object while in for-in loop
 //so use BRACKET-notation without "" ex. object[key]
@@ -23,7 +25,7 @@ for(let key in person){
 
 }
 
-
+//method-2
 //Object.keys(nameOfObject)  method to make ARRAY
 
 console.log((Object.keys(person))); //['name', 'age', 'hobby']  <-- array

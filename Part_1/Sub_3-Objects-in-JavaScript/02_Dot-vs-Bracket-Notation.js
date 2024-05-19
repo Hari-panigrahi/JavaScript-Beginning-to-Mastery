@@ -7,10 +7,10 @@ const person = {name:"parth",age:22,"person hobbies":["driving","playing","sing"
 //so use BRACKET NOTATION
 console.log(person["person hobbies"]); // ['driving', 'playing', 'sing']
 
+
 const key = "cyber";
 
-
 person[key] = "carracingsschool";  //  {cyber: 'carracingsschool'}
-
+//person["key"]   don't do this 
 
 console.log(person);

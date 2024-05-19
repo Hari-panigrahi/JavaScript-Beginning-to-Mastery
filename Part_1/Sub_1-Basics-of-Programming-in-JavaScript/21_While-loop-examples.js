@@ -6,11 +6,10 @@ let i = 1;
 
 let num =4;
 
-let sum = 0 ;
+let sum = 0;
 
 while(i<=num){
     sum = sum + i ;
-    
     i++;
 }
 

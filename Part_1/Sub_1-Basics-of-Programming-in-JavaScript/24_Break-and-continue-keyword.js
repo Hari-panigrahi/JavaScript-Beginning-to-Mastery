@@ -9,7 +9,7 @@ for(i=0;i<10;i++){
     }
 
     else if(i==5){
-        continue; // it will not go further only in for loop and it go directly to the starting of for loop
+        continue; // it will not go further in for loop and it go directly to the starting of for loop
     }
 
 

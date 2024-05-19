@@ -16,7 +16,7 @@ const singHappyBirthday1 = function(){
 
 singHappyBirthday1();
 
-//chaingin to Arrow Functions
+//changing to Arrow Functions
 const singHappyBirthday2 = () => {
     console.log("happy birthday to you ......");
 }
@@ -24,6 +24,8 @@ const singHappyBirthday2 = () => {
 singHappyBirthday2();
 
 //shortcut in arrow
+
+
 // const isEven = function(number){
 //     return number % 2 === 0;
 // }

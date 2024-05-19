@@ -9,9 +9,9 @@ const isEven = function (num){
 
 }
 
-const evenrNumbersss  = numbers.filter(isEven);
+const evenNumbers  = numbers.filter(isEven);
 
-console.log(evenrNumbersss);// [2, 6, 4, 8]  <---- GIVE NEW ARRAY
+console.log(evenNumbers);// [2, 6, 4, 8]  <---- GIVE NEW ARRAY
 
 
 //---------------------

@@ -1,9 +1,9 @@
 //Template Strings
 
 let age = 22;
-let firstName = "parth"
+let firstName = "hari"
 
-// "my name is parth and my age is 22 "
+// "my name is hari and my age is 22 "
 // let aboutMe = "my name is " + firstName + " and my age is " + age; 
 
 let aboutMe = `my name is ${firstName} and my age is ${age}`

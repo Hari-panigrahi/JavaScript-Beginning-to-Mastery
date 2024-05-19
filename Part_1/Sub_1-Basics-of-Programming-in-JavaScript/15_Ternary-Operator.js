@@ -1,4 +1,5 @@
 // ternary operator / conditional operator 
+
 //-------------------------------------
 let age = 38 ;
 

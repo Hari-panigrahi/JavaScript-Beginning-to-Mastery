@@ -6,7 +6,7 @@ function myFunc(){
         return "hello world"
     }
     
-    return hello; // returing hello() function
+    return hello; // returning hello() function
 }
 
 const ans = myFunc();

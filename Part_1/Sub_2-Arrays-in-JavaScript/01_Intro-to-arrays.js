@@ -14,7 +14,7 @@ console.log(fruit);
 // re-assign value of array
 
 fruit[1] = "japan";
-console.log(fruit[1]); // japan
+console.log(fruit[1]); //japan
 
 console.log(typeof(fruit)); //OBJECT
 
